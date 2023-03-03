@@ -1,1 +1,3 @@
 quotes-*.html
+__pycache__
+quotes.json
